@@ -1,0 +1,7 @@
+name: HidePlugins
+version: ${project.version}
+main: koral.hideplugins.HidePlugins
+api-version: 1.13
+authors: [koral]
+description: hide plugins
+commands:
